@@ -1,0 +1,56 @@
+﻿@model List<Gadget>
+
+<partial name="_Notification" />
+<div class="container">
+    <div class="row pt-4 pb-3">
+        <div class="col-6">
+            <h2 class="text-primary">Редактор товаров</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Gadget" asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Добавить</a>
+        </div>
+    </div>
+</div>
+@if (Model.Count == 0)
+{
+    <h5 class="text-center text-danger">Список товаров пуст</h5>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th width="200px"></th>
+                <th width="300px">Название</th>
+                <th width="150px">Цена</th>
+                <th width="50px">Скидка</th>
+                <th width="150px">Категория</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model.OrderBy(x => x.CategoryId))
+            {
+                <tr>
+                    <td>
+                        <img src="@obj.ImageUrl" width="30"/>
+                    </td>
+                    <td>@obj.Name</td>
+                    <td>@obj.Price ₽</td>
+                    <td>@obj.DiscountPercent%</td>
+                    <td>@obj.Category.Name</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a asp-controller="Gadget" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2" style="width: 210px">
+                                <i class="bi bi-pencil-square"></i> Редактировать
+                            </a>
+                            <a asp-controller="Gadget" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2" style="width: 210px">
+                                <i class="bi bi-trash3-fill"></i> Удалить
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

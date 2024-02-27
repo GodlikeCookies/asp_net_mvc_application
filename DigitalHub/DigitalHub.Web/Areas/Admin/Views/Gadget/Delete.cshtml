@@ -1,0 +1,38 @@
+﻿@model Gadget
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Id" hidden />
+    <div class="row pb-2">
+        <h2 class="text-primary">Данные товара:</h2>
+        <hr />
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Name">Имя</label>
+        <input asp-for="Name" disabled class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Description">Описание</label>
+        <input asp-for="Description" disabled class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Price">Цена, ₽</label>
+        <input asp-for="Price" disabled class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="DiscountPercent">Скидка, %</label>
+        <input asp-for="DiscountPercent" disabled class="form-control" />
+        <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-danger form-control" style="width: 150px">Удалить</button>
+    <a asp-controller="Gadget" asp-action="Index" class="btn btn-secondary" style="width: 150px">Отмена</a>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

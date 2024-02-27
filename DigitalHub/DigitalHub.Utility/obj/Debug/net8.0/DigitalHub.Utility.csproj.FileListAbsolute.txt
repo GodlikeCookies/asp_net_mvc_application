@@ -1,0 +1,25 @@
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\bin\Debug\net8.0\DigitalHub.Utility.deps.json
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\bin\Debug\net8.0\DigitalHub.Utility.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\bin\Debug\net8.0\DigitalHub.Utility.pdb
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.AssemblyInfoInputs.cache
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.AssemblyInfo.cs
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\refint\DigitalHub.Utility.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.pdb
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\ref\DigitalHub.Utility.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.csproj.AssemblyReference.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\bin\Debug\net8.0\DigitalHub.Utility.deps.json
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\bin\Debug\net8.0\DigitalHub.Utility.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\bin\Debug\net8.0\DigitalHub.Utility.pdb
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.csproj.AssemblyReference.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.AssemblyInfoInputs.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.AssemblyInfo.cs
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.csproj.CoreCompileInputs.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.sourcelink.json
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\refint\DigitalHub.Utility.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\DigitalHub.Utility.pdb
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.Utility\obj\Debug\net8.0\ref\DigitalHub.Utility.dll

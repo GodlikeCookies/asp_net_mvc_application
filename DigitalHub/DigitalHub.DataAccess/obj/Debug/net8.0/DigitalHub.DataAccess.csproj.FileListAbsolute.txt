@@ -1,0 +1,35 @@
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.deps.json
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.runtimeconfig.json
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.pdb
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.Models.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.Models.pdb
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.AssemblyInfo.cs
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalH.40D9BDED.Up2Date
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\refint\DigitalHub.DataAccess.dll
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.pdb
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.genruntimeconfig.cache
+C:\Users\Godli\OneDrive\Desktop\Digital Hub\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\ref\DigitalHub.DataAccess.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.deps.json
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.runtimeconfig.json
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.DataAccess.pdb
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.Models.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\bin\Debug\net8.0\DigitalHub.Models.pdb
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.csproj.AssemblyReference.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.AssemblyInfoInputs.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.AssemblyInfo.cs
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.csproj.CoreCompileInputs.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.sourcelink.json
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalH.40D9BDED.Up2Date
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\refint\DigitalHub.DataAccess.dll
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.pdb
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\DigitalHub.DataAccess.genruntimeconfig.cache
+C:\GitHub\asp_net_mvc_application\DigitalHub\DigitalHub.DataAccess\obj\Debug\net8.0\ref\DigitalHub.DataAccess.dll

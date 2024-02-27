@@ -1,0 +1,40 @@
+﻿@model List<GadgetHomeVM>
+
+@foreach (var category in Model.OrderBy(x => x.CategoryName))
+{
+    @if (category.Gadgets.Count == 0) continue;
+    <div>
+        <h2 style="margin-bottom: 50px">@category.CategoryName</h2>
+        <div class="row">
+            @foreach (var gadget in category.Gadgets)
+            {
+                <div class="col-sm-4 border-end" style="margin-bottom: 50px">
+                    <div class="text-center">
+                        <img src="@gadget.ImageUrl" style="margin-bottom: 20px; height: 200px; width: auto">
+                        <h4 style="height: 50px">@gadget.Name</h4>
+                        <hr />
+                        <p style="height: 100px">@gadget.Description</p>
+                        <hr />
+                        <div class="row" style="margin-top: 20px">
+                            <h4 class="text-end">
+                                @if (gadget.DiscountPercent == 0)
+                                {
+                                    <strong>@gadget.Price ₽</strong>
+                                }
+                                else
+                                {
+                                    <strong style="margin-right: 10px">@Math.Round(gadget.Price - (gadget.Price * gadget.DiscountPercent / 100)) ₽</strong>
+                                    <del class="text-secondary">@gadget.Price ₽</del>
+                                }
+                            </h4>
+                            <div class="text-end" style="margin-top: 20px">
+                                <a asp-controller="" asp-action="" class="btn btn-outline-secondary" style="width: 150px">В корзину</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <hr />
+    </div>
+}

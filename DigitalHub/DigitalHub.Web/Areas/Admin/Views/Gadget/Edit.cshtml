@@ -1,0 +1,59 @@
+﻿@model GadgetVM
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Gadget.Id" hidden />
+    <input asp-for="Gadget.ImageUrl" hidden />
+    <div class="row pb-2">
+        <h2 class="text-primary">Данные товара:</h2>
+    </div>
+    <div class="row">
+        <div class="col-10">
+            <div class="mb-3 row p-1">
+                <label asp-for="Gadget.Name">Имя</label>
+                <input asp-for="Gadget.Name" class="form-control" />
+                <span asp-validation-for="Gadget.Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label asp-for="Gadget.Description">Описание</label>
+                <input asp-for="Gadget.Description" class="form-control" />
+                <span asp-validation-for="Gadget.Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label asp-for="Gadget.Price">Цена, ₽</label>
+                <input asp-for="Gadget.Price" class="form-control" />
+                <span asp-validation-for="Gadget.Price" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label asp-for="Gadget.DiscountPercent">Скидка, %</label>
+                <input asp-for="Gadget.DiscountPercent" class="form-control" />
+                <span asp-validation-for="Gadget.DiscountPercent" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label asp-for="Gadget.CategoryId">Категория</label>
+                <select asp-for="Gadget.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                    <option disabled selected>--Выбрать--</option>
+                </select>
+                <span asp-validation-for="Gadget.CategoryId" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row p-1">
+                <label asp-for="Gadget.ImageUrl">Изображение</label>
+                <input type="file" name="file" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-success form-control" style="width: 150px">Изменить</button>
+            <a asp-controller="Gadget" asp-action="Index" class="btn btn-secondary" style="width: 150px">Отмена</a>
+        </div>
+        <div class="col-2">
+            <img src="@Model.Gadget.ImageUrl" width="50%" />
+        </div>
+    </div>
+    
+    
+
+    
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
