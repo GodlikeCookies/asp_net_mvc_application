@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|c:\\github\\asp_net_mvc_application\\digitalhub\\digitalhub.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|solutionrelative:digitalhub.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|c:\\github\\asp_net_mvc_application\\digitalhub\\digitalhub.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|solutionrelative:digitalhub.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|c:\\github\\asp_net_mvc_application\\digitalhub\\digitalhub.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|solutionrelative:digitalhub.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|c:\\github\\asp_net_mvc_application\\digitalhub\\digitalhub.web\\areas\\customer\\views\\home\\authorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|solutionrelative:digitalhub.web\\areas\\customer\\views\\home\\authorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|c:\\github\\asp_net_mvc_application\\digitalhub\\digitalhub.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1659E049-0665-481A-B04E-5176391585AC}|DigitalHub.Web\\DigitalHub.Web.csproj|solutionrelative:digitalhub.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 298,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T11:02:01.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
               "ToolTip": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
               "RelativeToolTip": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-27T10:56:52.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T10:56:14.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:56:14.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Views\\Shared\\_LoginPartial.cshtml",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "DigitalHub.Web\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T10:55:34.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:55:34.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T10:52:30.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:52:30.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Authorization.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Authorization.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Authorization.cshtml",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "DigitalHub.Web\\Areas\\Customer\\Views\\Home\\Authorization.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T10:50:48.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:50:48.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -115,18 +128,17 @@
               "RelativeToolTip": "DigitalHub.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T10:48:08.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:48:08.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DigitalHub.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\GitHub\\asp_net_mvc_application\\DigitalHub\\DigitalHub.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DigitalHub.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAZAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-27T09:44:42.039Z",
               "EditorCaption": ""

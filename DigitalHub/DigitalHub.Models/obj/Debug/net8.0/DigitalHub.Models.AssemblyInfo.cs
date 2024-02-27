@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalHub.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d2f74e3b01051141a65db5750be1a86e99a9df3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2e5b3291f2c3da9046576f36eff1b154ca9a8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalHub.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalHub.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
